@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "jest": "^29.6.1"
+    "jest": "^29.6.1",
+    "pretty": "^2.0.0"
   }
 }
