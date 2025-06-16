@@ -1,0 +1,18 @@
+What we should test?
+- Testing component rendering
+- UI elements that we write
+- Functions which we write
+- API Testing
+- Event Testing
+- Props and states
+- UI condition testing | UI state testing
+
+Avoid testing for
+- External UI library code
+- No need ti test default function of JS and react
+- Sometime we should mock function rather than testing it in details.
+
+Important points
+- Do not write snapshots in starting of the project
+- Run test case after completing your functionality
+- Make a standard for code coverage
